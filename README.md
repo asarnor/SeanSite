@@ -1,0 +1,4 @@
+SeanSite
+========
+
+small website
